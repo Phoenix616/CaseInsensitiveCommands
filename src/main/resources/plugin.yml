@@ -1,0 +1,6 @@
+name: CaseInsensitiveCommands
+version: '${project.version}'
+main: de.themoep.caseinsensitivecommands.CaseInsensitiveCommands
+api-version: 1.19
+authors: [ Phoenix616 ]
+description: Allow non-lowercase commands
